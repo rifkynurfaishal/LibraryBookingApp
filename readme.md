@@ -107,13 +107,3 @@ Learning objectives include:
 | 5  | Rifky Nurfaishal         |
 
 ---
-
-## 🏷️ **Optional GitHub Badges**
-
-```
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-![PRs](https://img.shields.io/badge/PRs-Welcome-blue)
-![License](https://img.shields.io/badge/License-Free-lightgrey)
-```
-
----
